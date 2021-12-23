@@ -6,5 +6,6 @@ Implemented Github Auth, also mongo connect to store session data in mongodb usi
 Running the App:
  - yarn - to install packages
  - yarn dev - server app
- - yarn start - server prod build from local
+ - yarn build - create production build
+ - yarn start - server production build from local
  - refernce package.json for further details.
